@@ -24,7 +24,6 @@ h2{
     font-weight: normal;
     color: #66BFBF;
 }
-
 h2.sub-head{
     font-family: 'Cinzel', serif;
     font-size: 2.5rem;
@@ -52,7 +51,9 @@ hr{
     margin-top: 50px;
 }
 
-
+#WebDevelopment{
+    height: 200px;
+}
 
 .top-container{
     background-color: #1eafed;
