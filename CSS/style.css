@@ -25,12 +25,19 @@ h2{
     color: #66BFBF;
 }
 
+h2.sub-head{
+    font-family: 'Cinzel', serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #2C2891;
+}
+
 h1{
     margin-top: 0px;
     font-family: 'Merienda', cursive;
     font-size: 5.625rem;
     margin: 50px auto;
-    color: #66BFBF;
+    color: #2C2891;
 }
 
 h3, a {
